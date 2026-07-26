@@ -17,13 +17,13 @@ A responsive personal portfolio website built using **HTML**, **CSS**, and **Jav
 - Smooth scrolling navigation
 - Social media links
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used:
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 📁 Project Structure
+## 📁 Project Structure:
 
 
 portfolio-website/
@@ -31,22 +31,17 @@ portfolio-website/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── resume.pdf
 └── README.md
-```
 
 
-## 🎯 Objectives
+## 🎯 Objectives:
 
 - Build a responsive personal portfolio
 - Showcase my projects and skills
 - Practice HTML, CSS, and JavaScript
 - Create an online presence for internships and job opportunities
 
-## 📱 Responsive Design
+## 📱 Responsive Design:
 
 This website is optimized for:
 
@@ -54,7 +49,7 @@ This website is optimized for:
 - Tablet
 - Mobile
 
-## 📚 What I Learned
+## 📚 What I Learned:
 
 - Creating responsive layouts using Flexbox and CSS Grid
 - Building reusable UI components
@@ -63,14 +58,16 @@ This website is optimized for:
 - Deploying websites using GitHub Pages
 
 
-## Github repository link:
+# Github repository link:
+
 https://github.com/namratarwt96/task1-portfolio-website-internspark_internship
 
-## Live Link deployed GitHub Pages:
+# Live Link deployed GitHub Pages:
 
 https://namratarwt96.github.io/task1-portfolio-website-internspark_internship
 
-## Google drive document link:
+# Google drive document link:
+
 https://docs.google.com/document/d/1Wt-ZQK5E0gFinh2u0XzN1Umf0RUgBaedNguo29ttMSA/edit?usp=drivesdk
 
 
