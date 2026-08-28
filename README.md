@@ -12,16 +12,19 @@ A responsive personal portfolio website built using **HTML**, **CSS**, and **Jav
 - Hero section with introduction
 - About Me section
 - Skills section
+- Learning section
+- Journey section
 - Projects showcase
 - Contact section
 - Smooth scrolling navigation
-- Social media links
+
 
 ## 🛠️ Technologies Used:
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript(ES6+)
+- BootStrap5
 
 ## 📁 Project Structure:
 
