@@ -54,7 +54,7 @@ This website is optimized for:
 
 ## 📚 What I Learned:
 
-- Creating responsive layouts using Flexbox and CSS Grid
+- Creating responsive layouts using bootstrap.
 - Building reusable UI components
 - Improving website accessibility
 - Organizing frontend project structure
